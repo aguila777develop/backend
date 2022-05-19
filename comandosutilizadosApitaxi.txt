@@ -1,0 +1,89 @@
+  164  git commit -m "proyecto inicial"
+  165  git config --global user.email "porfirioramosfernandez@gmail.com"
+  166  git config --global user.name "porfirio"
+  167  git add .
+  168  git commit -m "proyecto inicial"
+  
+  170  git push -u origin master
+  171  git --version
+  172  git config --global user.email "porfirioramosfernandez@gmail.com"
+  173  git config --global user.name "porfirio"
+  174  git config --global
+  175  git config --global -e
+  176  git config --global -l
+  177  git config --list
+  178  history 
+  179  git init
+  180  con eso inicilizamos la carpeta a subir a git ya estamos en master
+  181  primer commit
+  182  git status
+  183  ls
+  184  ls -l
+  185  ls -lh
+  186  ls -l
+  187  git config --global -l
+  188  git init
+  189  git status
+  190  inicializamos con git init
+  191  luego vemos el estado del archivos con git status
+  192  para adicionar un archivo git add archivo
+  193  para adicionar todos los archivos git add .
+  194  git add .
+  195  clear
+  196  git status
+  197  empaquetamos para que este listo para subir a git
+  198  git commit -m "proyecto inicial"
+  199  hicimosuna modificacion para ver la modificacion
+  200  git status
+  201  para ver en que parte se hizo la modificacion
+  202  git diff
+  203  git diff -h
+  204  git diff
+  205  git status
+  206  git status
+  207  git diff
+  208  git diff README.md
+  209  git diff hola.php
+  210  git diff --base hola.php
+  211  git diff
+  212  git status
+  260  git --version
+*****************************************************************************
+*****************************************************************************
+echo "# socket-api-taxi" >> README.md
+git commit -m "first commit"
+git remote add origin https://github.com/aguila777develop/socket-api-taxi.git
+echo "# socket-api-taxi" >> README.md
+git branch -M main
+git push -u origin main
+  262  echo "# socket-api-taxi" >> README.md
+  263  git init
+  264  git add README.md
+  265  git commit -m "first commit"
+  266  git branch -M main
+  267  git remote add origin https://github.com/aguila777develop/socket-api-taxi.git
+  268  git push -u origin main
+  269  git status
+  270  git add .
+  271  git status
+  272  git commit -m "Subiendo a git"
+  273  git branch -M main
+  274  git push -u origin main
+  275  git status
+  276  git add .
+  277  git commit -m "Modificacion del readme"
+  278  git branch -M main
+  279  git push -u origin main
+  280  history 
+  281  heroku --version
+  282  comenzando con heroku
+  283  git init
+  284  heroku git:remote -a apiresttaxi
+  285  git add .
+  286  git commit -am "make it better"
+  287  git push heroku master
+  288  git push heroku main
+  289  git status
+  290  git add .
+  291  git commit -m "primer cambio"
+  292  git push heroku main     // solo actualiza el remoto
